@@ -1,3 +1,2 @@
-# hello-world
-This is my practice space for Gifhub
+# About me
 Siphiwo is my name, currently an SC in KZN.
